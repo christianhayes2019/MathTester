@@ -1,7 +1,7 @@
 public class MathTester {
 
     public static void main(String [] args){
-        /*String firstWord;
+        String firstWord;
         String secondWord;
         int firstNumber,secondNumber, total;
 
@@ -37,7 +37,7 @@ public class MathTester {
 
 
 
-       int firstNumber= 10;
+       /*int firstNumber= 10;
        int secondNumber= 20;
         if (firstNumber>secondNumber){
             System.out.println(firstNumber + " is less " );
@@ -48,7 +48,7 @@ public class MathTester {
         }
         else{
             System.out.println("I don't know what you want");
-        }
+        }*/
 
 
 
