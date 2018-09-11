@@ -1,7 +1,7 @@
 public class MathTester {
 
     public static void main(String [] args){
-        String firstWord;
+        /*String firstWord;
         String secondWord;
         int firstNumber,secondNumber, total;
 
@@ -28,6 +28,32 @@ public class MathTester {
         System.out.println("firstNumber * secondNumber is "+ (firstNumber*secondNumber));
         System.out.println("The modulus of the secondNumber by the firstNumber" +
                 "is "+ (secondNumber%firstNumber));*/
+
+
+
+
+
+
+
+
+
+       int firstNumber= 10;
+       int secondNumber= 20;
+        if (firstNumber>secondNumber){
+            System.out.println(firstNumber + " is less " );
+
+        }
+        else if(firstNumber<0){
+            System.out.println(firstNumber + " is greater than 0 " );
+        }
+        else{
+            System.out.println("I don't know what you want");
+        }
+
+
+
+
+
 
 
 
